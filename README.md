@@ -15,8 +15,7 @@
 ### 🔥 My Stats :
 <p align="center">
 <a href="https://github.com/Chebil-Ilef">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chebil-Ilef
-&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chebil-Ilef&show_icons=true&include_all_commits=true&count_private=true"/>
  <img src="https://streak-stats.demolab.com/?user=Chebil-Ilef" alt="GitHub Streak" />
 </a>
 </p>
