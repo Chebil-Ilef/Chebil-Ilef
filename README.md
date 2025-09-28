@@ -17,9 +17,8 @@
 <a href="https://github.com/Chebil-Ilef">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chebil-Ilef
 &show_icons=true&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chebil-Ilef&layout=compact&langs_count=8"/> -->
+ <img src="https://streak-stats.demolab.com/?user=Chebil-Ilef" alt="GitHub Streak" />
 </a>
-<img src="https://streak-stats.demolab.com/?user=Chebil-Ilef" alt="GitHub Streak" />
 </p>
 
 <div id="badges">
