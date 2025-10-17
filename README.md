@@ -7,10 +7,10 @@
 </div>
 
 <br/>
-- 🦄 Hi, I’m @Chebil-Ilef aka Lost Elf <br/>
-- 🧠 I’m interested in Artificial Intelligence, Data and Software Engineering <br/>
-- 🚀 I’m currently a last year SWE student @INSAT <br/>
-- 🤝 I’m looking to collaborate on interesting and sophisticated projects <br/>
+- Hi, I’m @Chebil-Ilef aka Lost Elf <br/>
+- I’m interested in Artificial Intelligence, Data and Software Engineering <br/>
+- I’m currently a last year SWE student @INSAT <br/>
+- I’m looking to collaborate on interesting and sophisticated projects <br/>
 
 ### 🔥 My Stats :
 <p align="center">
