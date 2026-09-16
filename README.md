@@ -24,15 +24,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilef-chebil-0b1ab227a/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44" height="44" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ilef.chebil.ig@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" height="48" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://ilef-portfolio.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/96/domain.png" width="48" height="48" alt="Portfolio website"/>
+    <img src="https://img.icons8.com/ios-filled/100/228BE6/domain.png" width="44" height="44" alt="Portfolio website"/>
   </a>
 </p>
 
@@ -42,6 +42,6 @@
 
 <p align="center">
   <a href="https://github.com/Chebil-Ilef">
-    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's complete GitHub metrics" width="72%"/>
+    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's GitHub contributions and activity" width="65%"/>
   </a>
 </p>
