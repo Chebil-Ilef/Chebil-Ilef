@@ -20,7 +20,7 @@ Almost forgot!! This is my portfolio. Please have a look!
   </a>
 </p>
 
-Feel free to reach out for collaborations or technical discussions—my door is always open. :))
+Feel free to reach out for collaborations or technical discussions, my door is always open. :D
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilef-chebil-0b1ab227a/" target="_blank" rel="noreferrer">
@@ -42,6 +42,6 @@ Feel free to reach out for collaborations or technical discussions—my door is 
 
 <p align="center">
   <a href="https://github.com/Chebil-Ilef">
-    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's complete GitHub metrics" width="100%"/>
+    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's complete GitHub metrics" width="72%"/>
   </a>
 </p>
