@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://ilef-portfolio.vercel.app/#experience" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ilef's portfolio"/>
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-F79A1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ilef's portfolio"/>
   </a>
 </p>
 
