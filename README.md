@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p><big>Feel free to reach out for collaborations or technical discussions, my door is always open. :D</big></p>
+<p><big>Feel free to reach out for collaborations or discussions, my door is always open. :D</big></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilef-chebil-0b1ab227a/" target="_blank" rel="noreferrer">
@@ -42,6 +42,6 @@
 
 <p align="center">
   <a href="https://github.com/Chebil-Ilef">
-    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's complete GitHub metrics" width="72%"/>
+    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's complete GitHub metrics" width="68%"/>
   </a>
 </p>
