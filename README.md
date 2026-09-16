@@ -42,6 +42,6 @@ Feel free to reach out for collaborations or technical discussions—my door is 
 
 <p align="center">
   <a href="https://github.com/Chebil-Ilef">
-    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's GitHub contributions, languages, and activity" width="68%"/>
+    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's complete GitHub metrics" width="100%"/>
   </a>
 </p>

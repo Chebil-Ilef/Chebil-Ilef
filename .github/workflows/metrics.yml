@@ -29,7 +29,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_lines: yes
-          config_timezone: Africa/Tunis
-          config_order: base.header, isocalendar, languages, lines, base.activity, base.community, base.repositories, base.metadata
+          config_timezone: Europe/Berlin
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, isocalendar, languages, lines
           config_padding: 10,20
           optimize: yes
