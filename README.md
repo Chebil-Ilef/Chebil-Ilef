@@ -1,35 +1,48 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/0YM7OIetI8AAAAAi/busy-cansado.gif" width="100"/>
-  <br/>
-  <span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F79A1F&center=true&vCenter=true&width=380&lines=I+am+Ilef;Software+-+AI+-+Data+Enthusiast" alt="Animated Text"/>
-  </span>
+<div align="center">
+  <img src="https://media.tenor.com/0YM7OIetI8AAAAAi/busy-cansado.gif" width="110" alt="Lost Elf working"/>
+
+  <h1>Hello, I'm Ilef! 👋</h1>
+  <h3>Software Engineer Graduate &nbsp;•&nbsp; AI Consultant</h3>
 </div>
 
 <br/>
-- Hi, I’m @Chebil-Ilef aka Lost Elf <br/>
-- I’m interested in Artificial Intelligence, Data and Software Engineering <br/>
-- I’m currently a last year SWE student @INSAT <br/>
-- I’m looking to collaborate on interesting and sophisticated projects <br/>
 
-### 🔥 My Stats :
+## 🧝‍♀️ About Me
+
+I've never been great at short introductions, but let me try. :)
+
+I'm **Ilef Chebil**, also known as **Lost Elf**. I graduated from **INSAT in 2026** as a Software Engineer. My main focus areas are **artificial intelligence, data engineering, and cloud technologies**. I love a good technical challenge—especially projects that create tangible, real-world impact.
+
+Almost forgot—this is my portfolio. Please have a look!
+
 <p align="center">
-<a href="https://github.com/Chebil-Ilef">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chebil-Ilef&show_icons=true&include_all_commits=true&count_private=true"/>
-  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chebil-Ilef" alt="GitHub Streak" /></a> -->
-</a>
+  <a href="https://ilef-portfolio.vercel.app/#experience" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ilef's portfolio"/>
+  </a>
 </p>
 
-### 📅 Contributions Calendar :
-<p align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contributions calendar" width="100%"/>
-</p>
+Feel free to reach out for collaborations or technical discussions—my door is always open. :))
 
-<div id="badges">
+<p align="center">
   <a href="https://www.linkedin.com/in/ilef-chebil-0b1ab227a/" target="_blank" rel="noreferrer">
-    <img height="30px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ilef.chebil.ig@gmail.com" target="_blank" rel="noreferrer">
-    <img height="30px" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  &nbsp;
+  <a href="mailto:ilef.chebil.ig@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+  &nbsp;
+  <a href="https://ilef-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website"/>
+  </a>
+</p>
+
+<br/>
+
+## 📊 My GitHub Contributions
+
+<p align="center">
+  <a href="https://github.com/Chebil-Ilef">
+    <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Ilef's GitHub contributions, languages, and activity" width="68%"/>
+  </a>
+</p>
