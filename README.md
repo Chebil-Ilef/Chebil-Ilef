@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ilef-typing-transparent.gif" width="200" alt="Ilef typing" />
+  <img src="assets/ilef-typing.gif" width="200" alt="Ilef typing" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;pause=1200&amp;color=F79A1F&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Hello%2C+I+am+Ilef%21;Software+Engineer+Graduate;IT+Consultant;AI+%26+Data+Specialist" alt="Typing animation: Hello, I am Ilef! Software Engineer Graduate. IT Consultant. AI and Data Specialist."/>
 </div>
