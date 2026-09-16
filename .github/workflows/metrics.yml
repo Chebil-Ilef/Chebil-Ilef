@@ -31,4 +31,8 @@ jobs:
           config_timezone: Europe/Berlin
           config_order: base.header, base.repositories, isocalendar, languages, lines, base.activity, base.metadata
           config_padding: 10,20
+          extras_css: |
+            .calendar + .field {
+              display: none !important;
+            }
           optimize: yes
