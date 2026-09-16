@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/0YM7OIetI8AAAAAi/busy-cansado.gif" width="110" alt="Lost Elf working"/>
-
-  <h1>Hello, I'm Ilef! 👋</h1>
-  <h3>Software Engineer Graduate &nbsp;•&nbsp; AI Consultant</h3>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;pause=1200&amp;color=F79A1F&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Hello%2C+I+am+Ilef%21;Software+Engineer+Graduate;AI+Consultant" alt="Typing animation: Hello, I am Ilef! Software Engineer Graduate. AI Consultant."/>
 </div>
 
 <br/>
