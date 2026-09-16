@@ -8,11 +8,11 @@
 
 ## 🧝‍♀️ About Me
 
-<h3>I've never been great at short introductions, but let me try. :)</h3>
+<p><big>I've never been great at short introductions, but let me try. :)</big></p>
 
-<h3>I'm <strong>Ilef Chebil</strong>, also known as <strong>Lost Elf</strong>. I graduated from <strong>INSAT in 2026</strong> as a Software Engineer. My main focus areas are <strong>artificial intelligence, data engineering, and cloud technologies</strong>. I love a good technical challenge, especially projects that create tangible, real-world impact.</h3>
+<p><big>I'm <strong>Ilef Chebil</strong>, also known as <strong>Lost Elf</strong>. I graduated from <strong>INSAT in 2026</strong> as a Software Engineer. My main focus areas are <strong>artificial intelligence, data engineering, and cloud technologies</strong>. I love a good technical challenge, especially projects that create tangible, real-world impact.</big></p>
 
-<h3>Almost forgot!! This is my portfolio. Please have a look!</h3>
+<p><big>Almost forgot!! This is my portfolio. Please have a look!</big></p>
 
 <p align="center">
   <a href="https://ilef-portfolio.vercel.app/#experience" target="_blank" rel="noreferrer">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3>Feel free to reach out for collaborations or technical discussions, my door is always open. :D</h3>
+<p><big>Feel free to reach out for collaborations or technical discussions, my door is always open. :D</big></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilef-chebil-0b1ab227a/" target="_blank" rel="noreferrer">
