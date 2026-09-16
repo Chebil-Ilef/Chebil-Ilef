@@ -21,7 +21,7 @@ jobs:
           user: Chebil-Ilef
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.fullyear.svg
-          base: activity, metadata
+          base: header, activity, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -29,6 +29,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_lines: yes
           config_timezone: Europe/Berlin
-          config_order: isocalendar, languages, lines, base.activity, base.metadata
+          config_order: base.header, base.repositories, isocalendar, languages, lines, base.activity, base.metadata
           config_padding: 10,20
           optimize: yes
