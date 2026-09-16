@@ -15,7 +15,7 @@
 <p><big>Almost forgot!! This is my portfolio. Please have a look!</big></p>
 
 <p align="center">
-  <a href="https://ilef-portfolio.vercel.app/#experience" target="_blank" rel="noreferrer">
+  <a href="https://ilef-portfolio.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ilef's portfolio"/>
   </a>
 </p>
