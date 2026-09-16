@@ -32,6 +32,7 @@ jobs:
           config_order: base.header, base.repositories, isocalendar, languages, lines, base.activity, base.metadata
           config_padding: 10,20
           extras_css: |
+            .calendar,
             .calendar + .field {
               display: none !important;
             }
